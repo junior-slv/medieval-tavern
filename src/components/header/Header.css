@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
+
+*{
+    text-decoration: none;
+    list-style: none;
+    font-family: 'MedievalSharp', cursive;
+    color: #fff;
+    border: 1px solid red;
+}
+
+.header{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: var(--z-fixed);
+    background-color: #000;
+
+
+
+
+}
+nav a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.nav__menu{
+    display: flex;
+    
+}
+
+
+ul:hover{
+    
+}
